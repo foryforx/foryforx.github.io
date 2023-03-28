@@ -1,3 +1,5 @@
+<!-- Slightly Modified from _layouts/home.html -->
+
 <!DOCTYPE HTML>
 <html lang="en" >
     <head><meta charset="UTF-8">
@@ -37,7 +39,7 @@
         </div>
         <ul class="summary">
             
-            <li class="chapter active" data-level="1.1" data-path="">
+            <li class="chapter" data-level="1.1" data-path="">
             
                 <a href="/">
                     foryforx notes
@@ -105,20 +107,28 @@
                     </h1>
                 </div>
 
-                <div class="body-inner"><div class="page-wrapper" tabindex="-1" role="main">
-    
+                <div class="body-inner">
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            <section class="normal markdown-section">
+                                
+                                    <h1 id="">foryforx notes</h1>
+                                
 
-    <div class="page-inner">
-        <div id="book-search-results">
-            <div class="search-noresults">
-                <section class="normal markdown-section">
-                    
-                        <h1 id="">foryforx notes</h1>
-                    
+                                <br />
+                            </section>
 
-                    
-</section>
-            </div><div class="search-results">
+                            <!-- Slightly Modified from _layouts/home.html -->
+
+<div id="book-search-input-inside" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+
+                            <div id="book-search-results">
+                                <div class="search-noresults">
+                                    
+                                </div><div class="search-results">
     <div class="has-results">
         <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
         <ul class="search-results-list"></ul>
@@ -127,28 +137,8 @@
         <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
     </div>
 </div></div>
-    </div>
-</div>
-
-<script>
-MathJax = {
-  tex: {
-    inlineMath: [ ['$', '$'], ['\\(', '\\)'] ]
-  },
-  svg: {
-    fontCache: 'global'
-  }
-};
-</script>
-<script
-  type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
-</script>
-
-                        <a href="/links/2023/03/28/links.html" class="navigation navigation-next navigation-unique" aria-label="Next page: Links to read">
-                            <i class="fa fa-angle-right"></i>
-                        </a>
-                    
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -246,7 +236,7 @@ MathJax = {
         "gitbook": "*"
     },
     "file": {
-        "path": "index.md",
+        "path": "assets/search.html",
         "mtime": "",
         "type": "markdown"
     },

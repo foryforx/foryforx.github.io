@@ -1,0 +1,16 @@
+{"/todo/2023/03/28/todo.html": {
+    "title": "Todo",
+    "keywords": "todo",
+    "url": "/todo/2023/03/28/todo.html",
+    "body": "Tools/Links cheatsheet for my nvim setup work on _i project upgrade zero project to take speech to text remove class for 3"
+  },"/basic/2023/03/28/welcome-to-jekyll.html": {
+    "title": "Basics",
+    "keywords": "basic",
+    "url": "/basic/2023/03/28/welcome-to-jekyll.html",
+    "body": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. To add new posts, simply add a file in the _posts directory that follows the convention YYYY-MM-DD-name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: def print_hi(name) puts \"Hi, #{name}\" end print_hi('Tom') #=&gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk."
+  },"/links/2023/03/28/links.html": {
+    "title": "Links to read",
+    "keywords": "links",
+    "url": "/links/2023/03/28/links.html",
+    "body": "Tools/Links fasd tool(quick access to files and directories) - https://github.com/clvv/fasd Efficient shell script with window manager based system - https://larbs.xyz/ [Done] foryforx gitbook - app.gitbook.com [Done] vim configuration - https://github.com/nvim-lua/kickstart.nvim CQRS - https://martinfowler.com/bliki/CQRS.html Twirp example - https://github.com/twitchtv/twirp-example Clean architecture - https://threedots.tech/post/introducing-clean-architecture/ expression evaluation - ANTLR Philiosphy of software design - https://milkov.tech/assets/psd.pdf [Done] DOCGPT - https://bootcamp.uxdesign.cc/a-step-by-step-guide-to-building-a-chatbot-based-on-your-own-documents-with-gpt-2d550534eea5 [Done] CHATGPT - https://betterprogramming.pub/chatgpt-golang-a7bd524e7563"
+  }}

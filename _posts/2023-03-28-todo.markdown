@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Todo"
+date:   2023-03-28 18:10:51 +1100
+categories: todo
+---
+Tools/Links
+- cheatsheet for my nvim setup
+- work on _i project
+- upgrade zero project to take speech to text
+- remove class for 3
