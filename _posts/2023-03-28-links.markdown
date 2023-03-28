@@ -7,13 +7,13 @@ categories: links
 Tools/Links
 - fasd tool(quick access to files and directories) - https://github.com/clvv/fasd
 - Efficient shell script with window manager based system - https://larbs.xyz/
-- [Done] foryforx gitbook - app.gitbool.com
+- [Done] foryforx gitbook - app.gitbook.com
 - [Done] vim configuration - https://github.com/nvim-lua/kickstart.nvim
 - CQRS - https://martinfowler.com/bliki/CQRS.html
 - Twirp example - https://github.com/twitchtv/twirp-example
 - Clean architecture - https://threedots.tech/post/introducing-clean-architecture/
 - expression evaluation - ANTLR
 - Philiosphy of software design - https://milkov.tech/assets/psd.pdf
-- DOCGPT - https://bootcamp.uxdesign.cc/a-step-by-step-guide-to-building-a-chatbot-based-on-your-own-documents-with-gpt-2d550534eea5
-- CHATGPT - https://betterprogramming.pub/chatgpt-golang-a7bd524e7563
+- [Done] DOCGPT - https://bootcamp.uxdesign.cc/a-step-by-step-guide-to-building-a-chatbot-based-on-your-own-documents-with-gpt-2d550534eea5
+- [Done] CHATGPT - https://betterprogramming.pub/chatgpt-golang-a7bd524e7563
 
