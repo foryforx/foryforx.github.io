@@ -1,1 +1,0 @@
-# foryforx.github.io
