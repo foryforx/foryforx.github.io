@@ -1,11 +1,26 @@
 ---
 layout: post
-title:  "Todo"
-date:   2023-03-28 18:10:51 +1100
+title: 'Todo'
+date: 2023-03-28 18:10:51 +1100
 categories: todo
 ---
+
 Tools/Links
+
 - cheatsheet for my nvim setup
-- work on _i project
-- upgrade zero project to take speech to text
-- remove class for 3
+- Start with the basics of Python programming. You can learn Python through online courses like "Python for Everybody" by University of Michigan (Coursera), "Python Basics for Data Science" by IBM
+  (edX), or "Complete Python Bootcamp" by Jose Portilla (Udemy).
+
+  Move on to machine learning. Start with "Introduction to Machine Learning" by Andrew Ng (Coursera) or "Machine Learning A-Z" by Kirill Eremenko and Hadelin de Ponteves (Udemy).
+
+  Learn the fundamentals of natural language processing. You can take courses like "Natural Language Processing with Python" by University of Michigan (Coursera), "Practical Natural Language Processing" by deeplearning.ai (Coursera), or "Natural Language Processing with Deep Learning in Python" by LazyProgrammer (Udemy).
+
+  Dive into deep learning. Start with "Deep Learning Specialization" by Andrew Ng (Coursera) or "Complete Deep Learning Bootcamp" by Jose Portilla (Udemy).
+
+  Learn about transformer models. Take courses like "Transformer Models for Natural Language Processing" by Hugging Face (Udemy) or "Transformers for Natural Language Processing" by deeplearning.ai (Coursera).
+
+  Learn data structures and algorithms. You can take courses like "Data Structures and Algorithms" by University of California San Diego (Coursera) or "Algorithms and Data Structures in Python" by Jose Portilla (Udemy).
+
+  Build projects and practice. Try building your own AI models and projects using the skills you have learned. You can also participate in online communities like Kaggle or GitHub to get feedback and collaborate with others.
+
+  Learn about cloud computing. Take courses like "AWS Machine Learning Certification" by Amazon Web Services (AWS Training) or "Google Cloud Platform Fundamentals: Core Infrastructure" by Google Cloud (Coursera).
