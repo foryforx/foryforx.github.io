@@ -8,7 +8,10 @@ categories: todo
 Tools/Links
 
 - cheatsheet for my nvim setup
-- Start with the basics of Python programming. You can learn Python through online courses like "Python for Everybody" by University of Michigan (Coursera), "Python Basics for Data Science" by IBM
+- Leanr
+
+  ```
+  Start with the basics of Python programming. You can learn Python through online courses like "Python for Everybody" by University of Michigan (Coursera), "Python Basics for Data Science" by IBM
   (edX), or "Complete Python Bootcamp" by Jose Portilla (Udemy).
 
   Move on to machine learning. Start with "Introduction to Machine Learning" by Andrew Ng (Coursera) or "Machine Learning A-Z" by Kirill Eremenko and Hadelin de Ponteves (Udemy).
@@ -24,3 +27,4 @@ Tools/Links
   Build projects and practice. Try building your own AI models and projects using the skills you have learned. You can also participate in online communities like Kaggle or GitHub to get feedback and collaborate with others.
 
   Learn about cloud computing. Take courses like "AWS Machine Learning Certification" by Amazon Web Services (AWS Training) or "Google Cloud Platform Fundamentals: Core Infrastructure" by Google Cloud (Coursera).
+  ```
