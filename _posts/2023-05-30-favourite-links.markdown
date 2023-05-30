@@ -18,13 +18,17 @@ toc:
 
 - https://www.packtpub.com/product/hands-on-software-engineering-with-golang/9781838554491
 
-## Learn javascript
+## Learn javascript - Kyle simpson
 
 - https://frontendmasters.com/courses/getting-started-javascript-v2/loops/
 
-## Learn javascript
+## Learn javascript - mozilla
 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+
+## Learn Next js
+
+- https://nextjs.org/learn/foundations/from-javascript-to-react/essential-javascript-react
 
 ## CQRS
 
