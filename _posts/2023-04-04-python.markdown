@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Todo'
+title: 'Python learn basics'
 date: 2023-03-28 18:10:51 +1100
 categories: todo
 ---
@@ -24,9 +24,9 @@ categories: todo
   - int(False) = 0
   - bool(1) = True
   - bool(0) = False
+
 ## Expressions
-  - operands and operators form Expressions
-  - // results in int value for divisions
-  - order : ()* / + -i
 
-
+- operands and operators form Expressions
+- // results in int value for divisions
+- order : ()\* / + -i
