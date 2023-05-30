@@ -14,20 +14,41 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: foryforx notes
-email:
+email: NA
+author: foryforx
 description: >- # this means to ignore newlines until "baseurl:"
   Notes for foryforx.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://foryforx.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+rss:              RSS
 twitter_username:
 github_username:
 
 # Build settings
 markdown: kramdown
+kramdown:
+  auto_ids:               true
+  input:                  GFM
+  math_engine:            mathjax
+  smart_quotes:           lsquo,rsquo,ldquo,rdquo
+  toc_levels:             1..6
+  syntax_highlighter:     rouge
+  syntax_highlighter_opts:
+    guess_lang:           true
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-readme-index
+  - jemoji
 remote_theme: sighingnow/jekyll-gitbook
+
+
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
+
+markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
