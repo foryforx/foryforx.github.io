@@ -1,0 +1,32 @@
+---
+layout: post
+title: 'Todo'
+date: 2023-03-28 18:10:51 +1100
+categories: todo
+---
+
+# Python
+
+## Types
+
+- int
+- float
+- str
+- type() command retrieves the type of value
+- typecasting
+  - float(2) = 2.0
+  - int(1.1) = 1
+  - int('1') = 1
+  - int('a') returns error
+  - str(1) = "1"
+  - type(True) = bool
+  - int(True) = 1
+  - int(False) = 0
+  - bool(1) = True
+  - bool(0) = False
+## Expressions
+  - operands and operators form Expressions
+  - // results in int value for divisions
+  - order : ()* / + -i
+
+
